@@ -1,0 +1,3 @@
+The basic idea behind the project is to distribute networks for visualization. There are few sites online that display networks with meta information on the screen. Those sites are mostly static and do not have the flexibility to adjust the network layout. The aim of the phpXgmml package is to provide you with the possibility to export networks as extended XGMML files and load those into visualization tools like Cytoscape to adjust networks to your likings.
+
+phpxgmml is focused on PHP5 using Cytoscape through webstart.
